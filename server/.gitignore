@@ -1,0 +1,54 @@
+# ASP.NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+*.db
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+/Migrations
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.dbmdl
+*.dbproj
+*.jfm
+*.sln.ide
+*.sln.docstates
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+*.env
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# NuGet Packages
+*.nupkg
+packages/
+
+# Build results
+*.exe
+*.dll
+*.pdb
+*.app
+*.apk
+*.dSYM
+
+# Swagger UI
+/swagger/
+
+
+

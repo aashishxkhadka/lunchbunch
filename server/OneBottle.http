@@ -1,0 +1,6 @@
+@OneBottle_HostAddress = http://localhost:6969
+
+GET {{OneBottle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
